@@ -9,8 +9,8 @@
 - ✅ Secure file upload and access
 - 🔑 Password encryption and safe storage
 - 👤 User authentication (Login/Signup)
+- 🔑 OTP-Email Authentication
 - 📁 Organized file storage
-- 🌐 Responsive UI (Mobile-friendly)
 - 💾 Backend storage with file handling
 
 ---
